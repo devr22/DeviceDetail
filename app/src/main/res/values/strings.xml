@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeviceDetail</string>
+    <string name="get_device_info">Get Device Info</string>
+    <string name="get_your_device_information">Get Your Device Info</string>
+</resources>
